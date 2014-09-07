@@ -1,4 +1,4 @@
-JHUDataProdcuts
+JHUDataProducts
 ===============
 
-Repository for JHU Data Prodcuts
+Repository for JHU Data Products
