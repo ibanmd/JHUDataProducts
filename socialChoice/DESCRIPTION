@@ -1,0 +1,9 @@
+Package: socialChoice
+Type: Package
+Title: Functions for common social choice calculations
+Version: 1.0
+Date: 2014-09-04
+Author: Mario Ibanez
+Maintainer: Mario Ibanez ibanmd@gmail.com
+Description: Functions for common social choice calculations
+License: What license is it under?
